@@ -1,10 +1,11 @@
-🚴 Bike Sales Dashboard Excel Project
+Bike Sales Dashboard Excel Project
 
 📌 Project Overview
 
 This project analyzes customer data to identify key factors influencing bike purchases. The dashboard was built in Excel using pivot tables, charts, and slicers to enable interactive analysis.
 
 📈 Dashboard Preview
+
 📊 Key Insights
 
 * Customers with shorter commute distances are more likely to purchase bikes
